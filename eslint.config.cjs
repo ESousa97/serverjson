@@ -1,5 +1,4 @@
 const js = require('@eslint/js');
-const importPlugin = require('eslint-plugin-import');
 const prettier = require('eslint-config-prettier');
 
 module.exports = [
@@ -20,12 +19,8 @@ module.exports = [
         require: 'readonly',
       },
     },
-    plugins: {
-      import: importPlugin,
-    },
     rules: {
       'no-console': 'off',
-      'import/no-unresolved': 'off',
     },
   },
   {
