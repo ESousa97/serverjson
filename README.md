@@ -2,8 +2,8 @@
 
 # EsDataBase API
 
-[![CI](https://img.shields.io/github/actions/workflow/status/ESousa97/EsDataBase/ci.yml?style=flat&logo=github-actions&logoColor=white)](https://github.com/ESousa97/EsDataBase/actions/workflows/ci.yml)
-[![CodeFactor](https://img.shields.io/codefactor/grade/github/ESousa97/EsDataBase?style=flat&logo=codefactor&logoColor=white)](https://www.codefactor.io/repository/github/esousa97/esdatabase)
+[![CI](https://img.shields.io/github/actions/workflow/status/ESousa97/server.json/ci.yml?style=flat&logo=github-actions&logoColor=white)](https://github.com/ESousa97/server.json/actions/workflows/ci.yml)
+[![CodeFactor](https://img.shields.io/codefactor/grade/github/ESousa97/server.json?style=flat&logo=codefactor&logoColor=white)](https://www.codefactor.io/repository/github/esousa97/server.json)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat&logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)
 [![Status](https://img.shields.io/badge/Status-Archived-lightgrey.svg?style=flat&logo=archive&logoColor=white)](#)
 
