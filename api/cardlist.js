@@ -1,7 +1,3 @@
-const { createHandler, ok } = require('../src/http');
-const { query, getQuery } = require('../src/db');
+const { createListHandler } = require('../src/http');
 
-module.exports = createHandler(async (req, res) => {
-  const { rows } = await query(getQuery('getAllCards'), []);
-  return ok(res, rows);
-});
+module.exports = createListHandler('getAllCards');
