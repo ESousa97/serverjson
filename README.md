@@ -2,8 +2,8 @@
 
 # EsDataBase API
 
-[![CI](https://img.shields.io/github/actions/workflow/status/ESousa97/server.json/ci.yml?style=flat&logo=github-actions&logoColor=white)](https://github.com/ESousa97/server.json/actions/workflows/ci.yml)
-[![CodeFactor](https://img.shields.io/codefactor/grade/github/ESousa97/server.json?style=flat&logo=codefactor&logoColor=white)](https://www.codefactor.io/repository/github/esousa97/server.json)
+[![CI](https://img.shields.io/github/actions/workflow/status/ESousa97/serverjson/ci.yml?style=flat&logo=github-actions&logoColor=white)](https://github.com/ESousa97/serverjson/actions/workflows/ci.yml)
+[![CodeFactor](https://img.shields.io/codefactor/grade/github/ESousa97/serverjson?style=flat&logo=codefactor&logoColor=white)](https://www.codefactor.io/repository/github/esousa97/serverjson)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat&logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)
 [![Status](https://img.shields.io/badge/Status-Archived-lightgrey.svg?style=flat&logo=archive&logoColor=white)](#)
 
@@ -86,6 +86,7 @@ A combinação permite desenvolvimento local com servidor Express tradicional e 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 **Requisitos mínimos:**
+
 - Node.js 20+ (recomendado)
 - npm 9+
 - PostgreSQL (para endpoints que consultam o banco)
@@ -158,13 +159,13 @@ Acesse: `http://localhost:3000/`
 
 ## Endpoints
 
-| Método | Rota | Descrição |
-|--------|------|-----------|
-| `GET` | `/` | Health check — retorna status e lista de endpoints |
-| `GET` | `/api/cards` | Retorna todos os cards (alias: `/api/cardlist`) |
-| `GET` | `/api/categories` | Retorna todos os procedimentos |
-| `GET` | `/api/procedure?id=1` | Retorna procedimento por ID (ou `/api/procedure/1`) |
-| `GET` | `/api/search?query=termo` | Busca por conteúdo com `ILIKE` |
+| Método | Rota                      | Descrição                                           |
+| ------ | ------------------------- | --------------------------------------------------- |
+| `GET`  | `/`                       | Health check — retorna status e lista de endpoints  |
+| `GET`  | `/api/cards`              | Retorna todos os cards (alias: `/api/cardlist`)     |
+| `GET`  | `/api/categories`         | Retorna todos os procedimentos                      |
+| `GET`  | `/api/procedure?id=1`     | Retorna procedimento por ID (ou `/api/procedure/1`) |
+| `GET`  | `/api/search?query=termo` | Busca por conteúdo com `ILIKE`                      |
 
 > Documentação completa dos endpoints em [`docs/API.md`](docs/API.md).
 
