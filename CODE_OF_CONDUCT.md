@@ -1,3 +1,5 @@
+> **⚠️ Aviso de Arquivamento:** Este repositório está arquivado e não está mais ativo. Ele permanece público apenas para fins de estudo e referência. Não há garantia de leitura, resposta, revisão ou correção para novas submissões.
+
 # Código de Conduta
 
 ## Nosso compromisso

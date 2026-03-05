@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+### Changed
+
+- Projeto arquivado oficialmente (2026-03-04). Documentação, templates e configurações foram ajustados para refletir o encerramento do desenvolvimento e ausência de manutenção.
+
 ### Added
 
 - Baseline, padronização do repo e documentação inicial.

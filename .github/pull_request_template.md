@@ -1,3 +1,5 @@
+> **⚠️ Aviso de Arquivamento:** Este repositório está arquivado e não está mais ativo. Ele permanece público apenas para fins de estudo. Não há garantia de que este Pull Request será revisado ou respondido.
+
 ## Descrição
 
 Explique o que mudou e por quê.

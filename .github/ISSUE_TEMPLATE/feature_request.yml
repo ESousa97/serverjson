@@ -3,6 +3,10 @@ description: Sugira uma melhoria
 title: 'feat: '
 labels: [enhancement]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        > **⚠️ Aviso de Arquivamento:** Este repositório está arquivado e não está mais ativo. Ele permanece público apenas para fins de estudo. Sugestões de melhoria não serão implementadas nem avaliadas.
   - type: textarea
     id: problem
     attributes:

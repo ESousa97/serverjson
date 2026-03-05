@@ -3,6 +3,10 @@ description: Reporte um problema para que possamos corrigir
 title: 'bug: '
 labels: [bug]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        > **⚠️ Aviso de Arquivamento:** Este repositório está arquivado e não está mais ativo. Ele permanece público apenas para fins de estudo. Não há garantia de leitura, resposta ou correção para problemas reportados.
   - type: textarea
     id: description
     attributes:

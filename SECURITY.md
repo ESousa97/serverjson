@@ -1,3 +1,5 @@
+> **⚠️ Aviso de Arquivamento:** Este repositório está arquivado e não está mais ativo. Ele permanece público apenas para fins de estudo e referência. Reportes de segurança não serão mais tratados ativamente, visto que o projeto não recebe mais manutenção.
+
 # Política de Segurança
 
 ## Reportando vulnerabilidades
